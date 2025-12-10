@@ -13,6 +13,7 @@ private:
     Point b;
     Point c;
     Point d;
+    
 
     double calculateAngle(Point p1, Point p2, Point p3);
 
